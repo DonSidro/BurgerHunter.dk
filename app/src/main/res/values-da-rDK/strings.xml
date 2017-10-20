@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BurgerHunter</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Adgangskode</string>
+    <string name="action_sign_in">Log på</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Log på</string>
+    <string name="error_invalid_email">Dette er ikke en email</string>
+    <string name="error_invalid_password">Adgangskoden er for kort</string>
+    <string name="error_incorrect_password">Adgangskoden er forkert</string>
+    <string name="error_field_required">Feltet skal udfyldes</string>
+    <string name="action_settings">Indstillinger</string>
+    <string name="no_account_yet_create_one">Intet Login? <b>Opret her</b></string>
+    <string name="already_a_member_login">"Allerede Bruger? <b>Log ind her</b> "</string>
+</resources>
